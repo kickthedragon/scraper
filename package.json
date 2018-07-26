@@ -15,9 +15,6 @@
   "bugs": {
     "url": "https://github.com/jonstuebe/scraper/issues"
   },
-  "engines": {
-    "node": "8.6.0"
-  },
   "keywords": [
     "nodejs",
     "scraper"
